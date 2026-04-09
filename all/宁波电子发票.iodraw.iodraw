@@ -222,10 +222,18 @@
           <mxGeometry x="1870" y="290" width="170" height="450" as="geometry" />
         </mxCell>
         <mxCell id="VhKFtOAhreV9XSnatQBb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VhKFtOAhreV9XSnatQBb-8" target="Xp272mxCavOVtJKQWkZ4-56">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1960" y="120" />
+              <mxPoint x="1900" y="120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VhKFtOAhreV9XSnatQBb-8" value="新票务系统" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1900" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VhKFtOAhreV9XSnatQBb-12" value="新票务系统" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
