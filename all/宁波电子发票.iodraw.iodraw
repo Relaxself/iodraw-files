@@ -236,16 +236,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VhKFtOAhreV9XSnatQBb-12" value="新票务系统" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="1170" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VhKFtOAhreV9XSnatQBb-13" value="防火墙" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="690" width="80" height="40" as="geometry" />
+          <mxGeometry x="1190" y="820" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VhKFtOAhreV9XSnatQBb-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=55;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="660" width="170" height="270" as="geometry" />
+          <mxGeometry x="1130" y="790" width="170" height="270" as="geometry" />
         </mxCell>
         <mxCell id="VhKFtOAhreV9XSnatQBb-16" value="三楼能管机房" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1585" y="880" width="80" height="30" as="geometry" />
+          <mxGeometry x="1155" y="1010" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VhKFtOAhreV9XSnatQBb-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=55;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="780" width="170" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="VhKFtOAhreV9XSnatQBb-18" value="三楼能管机房" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="1000" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
