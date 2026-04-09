@@ -13,8 +13,11 @@
         <mxCell id="Xp272mxCavOVtJKQWkZ4-3" value="ICSC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="420" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xp272mxCavOVtJKQWkZ4-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="Xp272mxCavOVtJKQWkZ4-4" value="SC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xp272mxCavOVtJKQWkZ4-5" value="SC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
