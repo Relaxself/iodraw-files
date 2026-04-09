@@ -143,9 +143,6 @@
         <mxCell id="Xp272mxCavOVtJKQWkZ4-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;startArrow=classic;startFill=1;" edge="1" source="Xp272mxCavOVtJKQWkZ4-55" target="Xp272mxCavOVtJKQWkZ4-56" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xp272mxCavOVtJKQWkZ4-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" source="Xp272mxCavOVtJKQWkZ4-55" target="Xp272mxCavOVtJKQWkZ4-64" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-55" value="iACC/iTPS" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1810" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -170,11 +167,10 @@
         <mxCell id="Xp272mxCavOVtJKQWkZ4-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.241;entryY=1.151;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" source="Xp272mxCavOVtJKQWkZ4-56" target="Xp272mxCavOVtJKQWkZ4-66" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xp272mxCavOVtJKQWkZ4-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" source="Xp272mxCavOVtJKQWkZ4-64" target="Xp272mxCavOVtJKQWkZ4-59" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Xp272mxCavOVtJKQWkZ4-64" value="网闸" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="175" width="120" height="50" as="geometry" />
+        <mxCell id="Xp272mxCavOVtJKQWkZ4-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" target="Xp272mxCavOVtJKQWkZ4-59" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2120" y="200" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-65" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1950" y="-190" width="170" height="60" as="geometry" />
