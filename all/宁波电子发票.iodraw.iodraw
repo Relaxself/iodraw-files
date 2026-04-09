@@ -285,6 +285,24 @@
         <mxCell id="VhKFtOAhreV9XSnatQBb-28" value="办公OA" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1650" y="810" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VhKFtOAhreV9XSnatQBb-29" value="MLC" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VhKFtOAhreV9XSnatQBb-30" value="iACC/iTPS" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VhKFtOAhreV9XSnatQBb-31" value="SC" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VhKFtOAhreV9XSnatQBb-32" value="闸机" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1251" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VhKFtOAhreV9XSnatQBb-33" value="BOM" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="1251" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VhKFtOAhreV9XSnatQBb-34" value="ICSC" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1251" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
