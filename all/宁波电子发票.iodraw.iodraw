@@ -51,6 +51,9 @@
         <mxCell id="Xp272mxCavOVtJKQWkZ4-15" value="互联网" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="-160" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Xp272mxCavOVtJKQWkZ4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xp272mxCavOVtJKQWkZ4-18" target="Xp272mxCavOVtJKQWkZ4-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-18" value="电子发票系统" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="690" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -58,6 +61,9 @@
           <mxGeometry x="690" y="50" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xp272mxCavOVtJKQWkZ4-20" target="Xp272mxCavOVtJKQWkZ4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xp272mxCavOVtJKQWkZ4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xp272mxCavOVtJKQWkZ4-14" target="Xp272mxCavOVtJKQWkZ4-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
