@@ -45,7 +45,7 @@
         <mxCell id="Xp272mxCavOVtJKQWkZ4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;startArrow=classic;startFill=1;fillColor=#f8cecc;strokeColor=#000000;" parent="1" source="Xp272mxCavOVtJKQWkZ4-5" target="Xp272mxCavOVtJKQWkZ4-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VhKFtOAhreV9XSnatQBb-53" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xp272mxCavOVtJKQWkZ4-11">
+        <mxCell id="VhKFtOAhreV9XSnatQBb-53" value="离线&lt;div&gt;对帐&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xp272mxCavOVtJKQWkZ4-11">
           <mxGeometry x="0.2257" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
