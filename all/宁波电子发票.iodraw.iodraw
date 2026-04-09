@@ -259,8 +259,11 @@
         <mxCell id="VhKFtOAhreV9XSnatQBb-20" value="生产网闸" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1395" y="905" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VhKFtOAhreV9XSnatQBb-21" value="核心交换机" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="VhKFtOAhreV9XSnatQBb-21" value="入口防火墙" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1395" y="740" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VhKFtOAhreV9XSnatQBb-22" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="590" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
