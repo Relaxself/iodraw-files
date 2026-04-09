@@ -82,16 +82,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-18" value="电子发票系统" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="610" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VhKFtOAhreV9XSnatQBb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xp272mxCavOVtJKQWkZ4-20" target="VhKFtOAhreV9XSnatQBb-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Xp272mxCavOVtJKQWkZ4-20" value="防火墙" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="1015" y="40" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Xp272mxCavOVtJKQWkZ4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;startArrow=classic;startFill=1;" parent="1" source="Xp272mxCavOVtJKQWkZ4-20" target="Xp272mxCavOVtJKQWkZ4-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="590" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.241;entryY=1.151;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="Xp272mxCavOVtJKQWkZ4-14" target="Xp272mxCavOVtJKQWkZ4-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -226,9 +217,6 @@
         </mxCell>
         <mxCell id="VhKFtOAhreV9XSnatQBb-1" value="诺诺" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="990" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VhKFtOAhreV9XSnatQBb-5" value="乐企" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VhKFtOAhreV9XSnatQBb-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=55;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1870" y="290" width="170" height="450" as="geometry" />
