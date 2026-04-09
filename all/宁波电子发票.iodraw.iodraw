@@ -78,8 +78,13 @@
         <mxCell id="Xp272mxCavOVtJKQWkZ4-15" value="互联网" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="510" y="-90" width="300" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="VhKFtOAhreV9XSnatQBb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Xp272mxCavOVtJKQWkZ4-18" target="Xp272mxCavOVtJKQWkZ4-28">
+        <mxCell id="VhKFtOAhreV9XSnatQBb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;startArrow=classic;startFill=1;" edge="1" parent="1" source="Xp272mxCavOVtJKQWkZ4-18" target="Xp272mxCavOVtJKQWkZ4-28">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VhKFtOAhreV9XSnatQBb-57" value="开票" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VhKFtOAhreV9XSnatQBb-2">
+          <mxGeometry x="-0.0432" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-18" value="电子发票系统" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="594" y="290" width="120" height="60" as="geometry" />
