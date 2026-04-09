@@ -248,7 +248,7 @@
           <mxGeometry x="1155" y="1010" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VhKFtOAhreV9XSnatQBb-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=55;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="780" width="170" height="270" as="geometry" />
+          <mxGeometry x="1350" y="710" width="170" height="340" as="geometry" />
         </mxCell>
         <mxCell id="VhKFtOAhreV9XSnatQBb-18" value="一楼接入机柜" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1375" y="1000" width="80" height="30" as="geometry" />
@@ -258,6 +258,9 @@
         </mxCell>
         <mxCell id="VhKFtOAhreV9XSnatQBb-20" value="生产网闸" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1395" y="905" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VhKFtOAhreV9XSnatQBb-21" value="核心交换机" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="740" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
