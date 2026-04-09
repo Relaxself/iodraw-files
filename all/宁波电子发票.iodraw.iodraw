@@ -242,7 +242,10 @@
           <mxGeometry x="1620" y="690" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VhKFtOAhreV9XSnatQBb-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=55;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="660" width="170" height="450" as="geometry" />
+          <mxGeometry x="1560" y="660" width="170" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="VhKFtOAhreV9XSnatQBb-16" value="三楼能管机房" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1585" y="880" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
