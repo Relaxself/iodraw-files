@@ -155,7 +155,7 @@
         <mxCell id="Xp272mxCavOVtJKQWkZ4-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" source="Xp272mxCavOVtJKQWkZ4-59" target="Xp272mxCavOVtJKQWkZ4-60" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xp272mxCavOVtJKQWkZ4-59" value="电子发票系统" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Xp272mxCavOVtJKQWkZ4-59" value="电子发票系统" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2190" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-60" value="防火墙" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
@@ -166,11 +166,6 @@
         </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.241;entryY=1.151;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" source="Xp272mxCavOVtJKQWkZ4-56" target="Xp272mxCavOVtJKQWkZ4-66" parent="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Xp272mxCavOVtJKQWkZ4-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" target="Xp272mxCavOVtJKQWkZ4-59" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2120" y="200" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-65" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1950" y="-190" width="170" height="60" as="geometry" />
