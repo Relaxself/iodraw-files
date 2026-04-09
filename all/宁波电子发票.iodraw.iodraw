@@ -87,6 +87,9 @@
         <mxCell id="Xp272mxCavOVtJKQWkZ4-28" value="网闸" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="610" y="175" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Xp272mxCavOVtJKQWkZ4-33" value="用户端" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-230" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
