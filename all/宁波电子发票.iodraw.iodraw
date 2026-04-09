@@ -39,11 +39,6 @@
         <mxCell id="Xp272mxCavOVtJKQWkZ4-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#000000;" parent="1" source="Xp272mxCavOVtJKQWkZ4-4" target="Xp272mxCavOVtJKQWkZ4-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VhKFtOAhreV9XSnatQBb-54" value="互联网票务数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xp272mxCavOVtJKQWkZ4-34">
-          <mxGeometry x="-0.1613" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-4" value="SC" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="209" y="290" width="120" height="60" as="geometry" />
         </mxCell>
@@ -74,7 +69,7 @@
         <mxCell id="Xp272mxCavOVtJKQWkZ4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;startArrow=classic;startFill=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="Xp272mxCavOVtJKQWkZ4-10" target="Xp272mxCavOVtJKQWkZ4-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VhKFtOAhreV9XSnatQBb-58" value="乘车&amp;nbsp; &amp;nbsp; &amp;nbsp; 开票请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xp272mxCavOVtJKQWkZ4-17">
+        <mxCell id="VhKFtOAhreV9XSnatQBb-58" value="乘车" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xp272mxCavOVtJKQWkZ4-17">
           <mxGeometry x="0.2788" relative="1" as="geometry">
             <mxPoint x="10" y="7" as="offset" />
           </mxGeometry>
