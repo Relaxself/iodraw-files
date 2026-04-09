@@ -66,7 +66,7 @@
         <mxCell id="Xp272mxCavOVtJKQWkZ4-5" value="MLC" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="209" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xp272mxCavOVtJKQWkZ4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;startArrow=classic;startFill=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="Xp272mxCavOVtJKQWkZ4-10" target="Xp272mxCavOVtJKQWkZ4-14" edge="1">
+        <mxCell id="Xp272mxCavOVtJKQWkZ4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;startArrow=classic;startFill=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="Xp272mxCavOVtJKQWkZ4-10" target="Xp272mxCavOVtJKQWkZ4-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VhKFtOAhreV9XSnatQBb-58" value="乘车" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xp272mxCavOVtJKQWkZ4-17">
@@ -84,6 +84,14 @@
         </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-10" value="iACC/iTPS" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="399" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VhKFtOAhreV9XSnatQBb-61" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#f8cecc;" edge="1" parent="1" source="Xp272mxCavOVtJKQWkZ4-14" target="Xp272mxCavOVtJKQWkZ4-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="130" />
+              <mxPoint x="654" y="130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-14" value="网闸" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="400" y="31" width="120" height="50" as="geometry" />
