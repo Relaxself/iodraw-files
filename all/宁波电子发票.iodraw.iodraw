@@ -57,8 +57,8 @@
         <mxCell id="Xp272mxCavOVtJKQWkZ4-14" value="网闸" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="420" y="50" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Xp272mxCavOVtJKQWkZ4-15" value="互联网" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-120" width="300" height="110" as="geometry" />
+        <mxCell id="Xp272mxCavOVtJKQWkZ4-15" value="互联网" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-90" width="300" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xp272mxCavOVtJKQWkZ4-18" target="Xp272mxCavOVtJKQWkZ4-20">
           <mxGeometry relative="1" as="geometry" />
