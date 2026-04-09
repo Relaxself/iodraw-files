@@ -39,8 +39,8 @@
         <mxCell id="Xp272mxCavOVtJKQWkZ4-10" value="iACC/iTPS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xp272mxCavOVtJKQWkZ4-14" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="Xp272mxCavOVtJKQWkZ4-14" value="网闸" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="50" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
