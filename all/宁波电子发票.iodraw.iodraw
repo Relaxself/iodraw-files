@@ -55,7 +55,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VhKFtOAhreV9XSnatQBb-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xp272mxCavOVtJKQWkZ4-5" target="Xp272mxCavOVtJKQWkZ4-18">
+        <mxCell id="VhKFtOAhreV9XSnatQBb-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Xp272mxCavOVtJKQWkZ4-5" target="Xp272mxCavOVtJKQWkZ4-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="215" />
