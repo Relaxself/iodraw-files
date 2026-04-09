@@ -90,10 +90,10 @@
         <mxCell id="Xp272mxCavOVtJKQWkZ4-33" value="用户端" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Xp272mxCavOVtJKQWkZ4-35">
           <mxGeometry width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xp272mxCavOVtJKQWkZ4-36" value="集团办公网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Xp272mxCavOVtJKQWkZ4-36" value="集团办公网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1010" y="70" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xp272mxCavOVtJKQWkZ4-37" value="票务生产网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Xp272mxCavOVtJKQWkZ4-37" value="票务生产网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="110" y="70" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
