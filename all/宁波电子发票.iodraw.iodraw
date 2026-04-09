@@ -394,7 +394,7 @@
         <mxCell id="VhKFtOAhreV9XSnatQBb-99" value="票务生产网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="2064" y="70" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VhKFtOAhreV9XSnatQBb-100" value="专线互联架构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="VhKFtOAhreV9XSnatQBb-100" value="办公网架构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="1440" y="-160" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VhKFtOAhreV9XSnatQBb-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" source="VhKFtOAhreV9XSnatQBb-102" target="VhKFtOAhreV9XSnatQBb-73" parent="1">
