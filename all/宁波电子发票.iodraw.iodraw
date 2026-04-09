@@ -368,13 +368,8 @@
         <mxCell id="VhKFtOAhreV9XSnatQBb-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.241;entryY=1.151;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" source="VhKFtOAhreV9XSnatQBb-86" target="VhKFtOAhreV9XSnatQBb-96" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VhKFtOAhreV9XSnatQBb-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;startArrow=classic;startFill=1;" edge="1" source="VhKFtOAhreV9XSnatQBb-94" target="VhKFtOAhreV9XSnatQBb-104" parent="1">
+        <mxCell id="VhKFtOAhreV9XSnatQBb-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;startArrow=classic;startFill=1;" edge="1" source="VhKFtOAhreV9XSnatQBb-108" target="VhKFtOAhreV9XSnatQBb-104" parent="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VhKFtOAhreV9XSnatQBb-93" value="开票" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VhKFtOAhreV9XSnatQBb-92">
-          <mxGeometry x="-0.1158" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="VhKFtOAhreV9XSnatQBb-94" value="网闸" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2120" y="295" width="120" height="50" as="geometry" />
@@ -409,19 +404,24 @@
         <mxCell id="VhKFtOAhreV9XSnatQBb-105" value="注：&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;&amp;nbsp;红色流程为业务数据&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;此架构，电子发票归属办公网管理&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1479" y="-110" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VhKFtOAhreV9XSnatQBb-108" value="电子发票系统" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2337" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VhKFtOAhreV9XSnatQBb-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;startArrow=classic;startFill=1;" edge="1" parent="1">
+        <mxCell id="VhKFtOAhreV9XSnatQBb-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;startArrow=classic;startFill=1;" edge="1" parent="1" source="VhKFtOAhreV9XSnatQBb-94" target="VhKFtOAhreV9XSnatQBb-108">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2633" y="320" as="sourcePoint" />
-            <mxPoint x="3003" y="320" as="targetPoint" />
+            <mxPoint x="2240" y="320" as="sourcePoint" />
+            <mxPoint x="2610" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VhKFtOAhreV9XSnatQBb-110" value="开票" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VhKFtOAhreV9XSnatQBb-109">
+        <mxCell id="VhKFtOAhreV9XSnatQBb-112" value="开票" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VhKFtOAhreV9XSnatQBb-111">
           <mxGeometry x="-0.1158" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VhKFtOAhreV9XSnatQBb-113" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="VhKFtOAhreV9XSnatQBb-111">
+          <mxGeometry x="0.0469" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VhKFtOAhreV9XSnatQBb-108" value="电子发票系统" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2350" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
