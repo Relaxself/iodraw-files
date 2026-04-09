@@ -45,7 +45,7 @@
         <mxCell id="Xp272mxCavOVtJKQWkZ4-5" value="MLC" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="230" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xp272mxCavOVtJKQWkZ4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Xp272mxCavOVtJKQWkZ4-10" target="Xp272mxCavOVtJKQWkZ4-14">
+        <mxCell id="Xp272mxCavOVtJKQWkZ4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;startArrow=classic;startFill=1;" edge="1" parent="1" source="Xp272mxCavOVtJKQWkZ4-10" target="Xp272mxCavOVtJKQWkZ4-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Xp272mxCavOVtJKQWkZ4-10" target="Xp272mxCavOVtJKQWkZ4-28">
@@ -95,6 +95,9 @@
         </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-37" value="票务生产网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="70" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xp272mxCavOVtJKQWkZ4-38" value="电子发票系统" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="800" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
