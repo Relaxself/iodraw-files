@@ -57,9 +57,6 @@
         <mxCell id="Xp272mxCavOVtJKQWkZ4-14" value="网闸" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="420" y="50" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Xp272mxCavOVtJKQWkZ4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xp272mxCavOVtJKQWkZ4-15" target="Xp272mxCavOVtJKQWkZ4-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-15" value="互联网" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="-100" width="120" height="80" as="geometry" />
         </mxCell>
@@ -75,7 +72,7 @@
         <mxCell id="Xp272mxCavOVtJKQWkZ4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xp272mxCavOVtJKQWkZ4-20" target="Xp272mxCavOVtJKQWkZ4-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xp272mxCavOVtJKQWkZ4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xp272mxCavOVtJKQWkZ4-14" target="Xp272mxCavOVtJKQWkZ4-15">
+        <mxCell id="Xp272mxCavOVtJKQWkZ4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.241;entryY=1.151;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xp272mxCavOVtJKQWkZ4-14" target="Xp272mxCavOVtJKQWkZ4-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xp272mxCavOVtJKQWkZ4-28" target="Xp272mxCavOVtJKQWkZ4-18">
