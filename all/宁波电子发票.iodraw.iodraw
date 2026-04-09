@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VhKFtOAhreV9XSnatQBb-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=55;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="790" width="170" height="270" as="geometry" />
+        </mxCell>
         <mxCell id="Xp272mxCavOVtJKQWkZ4-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=55;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="670" y="60" width="430" height="510" as="geometry" />
         </mxCell>
@@ -241,16 +244,13 @@
         <mxCell id="VhKFtOAhreV9XSnatQBb-13" value="防火墙" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1190" y="820" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VhKFtOAhreV9XSnatQBb-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=55;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="790" width="170" height="270" as="geometry" />
-        </mxCell>
         <mxCell id="VhKFtOAhreV9XSnatQBb-16" value="三楼能管机房" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1155" y="1010" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VhKFtOAhreV9XSnatQBb-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=55;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1350" y="780" width="170" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="VhKFtOAhreV9XSnatQBb-18" value="三楼能管机房" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="VhKFtOAhreV9XSnatQBb-18" value="一楼接入机柜" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1375" y="1000" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
